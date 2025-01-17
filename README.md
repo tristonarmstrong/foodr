@@ -50,6 +50,6 @@ We welcome contributions to Foodr! If you'd like to contribute, please fork this
 **License**
 =========
 
-Foodr is licensed under the MIT License. See [LICENSE](https://github.com/Foodr/blob/master/LICENSE) for more information.
+Foodr is licensed under the GPL License. See [LICENSE](https://github.com/Foodr/blob/master/LICENSE) for more information.
 
 I hope you find this README file helpful! 😊
